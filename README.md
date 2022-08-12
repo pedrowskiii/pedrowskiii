@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Pedro Henrique 👋
 
 - 🌱 Estudando React Js ...
-## Olá Eu sou o Pedro Henrique
 
 <div align="center">
   <a href="https://github.com/pedrowskiii">
