@@ -1,6 +1,6 @@
-### Olá, Eu sou o Pedro Henrique 👋
+### Hi there, I´m Pedro Henrique 👋
 
-- 🌱 Estudando React Js ...
+- 🌱 Python student ...
 
 <div align="center">
   <a href="https://github.com/pedrowskiii">
